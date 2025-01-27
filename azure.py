@@ -5,6 +5,7 @@ from datetime import datetime
 import numpy as np
 from dotenv import load_dotenv
 
+# OPEN CAMERA and then make the edges in the white project and then make the open then the function will make sure it returns the fram in same time 
 class AIVisionAnalyzer:
     def __init__(self):
         load_dotenv()
