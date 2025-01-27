@@ -1,9 +1,4 @@
-import cv2
-import openai
-import os
-from datetime import datetime
-import numpy as np
-from dotenv import load_dotenv
+
 
 # OPEN CAMERA and then make the edges in the white project and then make the open then the function will make sure it returns the fram in same time 
 class AIVisionAnalyzer:
